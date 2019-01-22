@@ -1,0 +1,27 @@
+body {
+  background-color: grey;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: blue;
+    }
+
+h2 {
+  text-align: left;
+  color: blue;
+  padding-top: 50px;
+}
+
+p {
+  margin: 0 auto;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+.thumbnail:hover {
+  background-color: blue;
+}
